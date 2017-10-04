@@ -1,0 +1,8 @@
+"email": "victorg@mx1.ibm.com",
+"password": "12345bailon",
+
+"email": "paco@centraal.com",
+"password": "12345paco",
+
+"email": "diego@centraal",
+"password": "12345diego",
